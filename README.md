@@ -1,6 +1,4 @@
 # XSSFinder
- 
-# XSSFinder
 
 A Light Weight Tool for checking Cross Site Scripting (XSS) vulnerabilities by replacing xss payloads in the parameters values and checking 'confirm(1),prompt(1),alert(1)' in the response.
 
