@@ -6,7 +6,7 @@ A Light Weight Tool for checking Cross Site Scripting (XSS) vulnerabilities by r
 ```
 git clone https://github.com/rix4uni/XSSFinder.git
 cd XSSFinder
-#pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Example usages
